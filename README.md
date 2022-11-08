@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 This webpage was built to help bootcamp students gain a basic understanding of different programs (HTML, CSS, JavaScript, and Git) and have a consolidated place to house their prework notes. Building this website was a project that helped explain how the three languages interact with each other (structure, style, and user interactity) and a few coding basics from each of these, all while following web development best practices along the way. With the website in place, bootcamp students also have the tools they need to update the website with prework notes.
 
 
